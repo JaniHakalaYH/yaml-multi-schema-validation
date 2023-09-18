@@ -1,11 +1,7 @@
 schedule:
-  year: '2020'
+  year: '2022'
   program: java
   lessons:
-    - java:
       - date: "2022-02-01"
       - description: programming course
-    - Another course:
-      - date: "2022-03-01"
-      - description: Another course
 
