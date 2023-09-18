@@ -1,2 +1,5 @@
 car:
   manufacturer: volvo
+  model: xc90
+  year: 2022
+  attribute:
