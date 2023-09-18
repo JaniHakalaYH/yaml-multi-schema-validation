@@ -1,6 +1,6 @@
 car:
   manufacturer: volvo
   model: xc90
-  year: 2022
+  year: '2022'
   attributes: [0]
   reg: BIG333
