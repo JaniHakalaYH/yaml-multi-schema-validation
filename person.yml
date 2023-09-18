@@ -1,3 +1,10 @@
 person:
   name:
     first_name: Stig
+    last_name: Stigsson
+  age: 403
+  class: physics
+  start_year: 1912
+  hobbies:
+    - frisbee-golf
+    - climbing
