@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: ASUS
     cores: 8
+    frequency: 1234
+  memory:
+    manufacturer: Acer
+    size: 2056
+    type: etype
+  disk:
+    manufacturer: Legion
+    size: 1000000
+    type: ssd
