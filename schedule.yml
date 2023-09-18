@@ -2,7 +2,7 @@ schedule:
   year: '2020'
   program: java
   lessons:
-    java:
-      - date: "2022-02-01"
-      - description: programming course
+   - java:
+       date: "2022-02-01"
+       description: programming course
 
